@@ -1,2 +1,5 @@
-# SubjectTerminal
+### SubjectTerminal
 Personal website
+> [!IMPORTANT]
+> Counter-Strike, its logo, and interface design are trademarks or registered trademarks of Valve Corporation.
+> This project is not affiliated with or endorsed by Valve Corporation.
